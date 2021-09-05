@@ -1,0 +1,6 @@
+
+implement change state method for a cell
+implement cycle logic to scan every cell and change state
+implement visualization of board
+implement routine to change state every 5 seconds
+
